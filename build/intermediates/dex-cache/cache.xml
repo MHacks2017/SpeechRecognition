@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/incremental-runtime-classes/arm/debug/instant-run.jar"
+        jar="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/incremental-classes/arm/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="247c207bad60e306739f94b81ca176c15845434b">
+        <dex dex="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run-bootstrap_ed5e4544a3ee641577d54a64cd32039fa76b0054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/incremental-runtime-classes/arm/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run_fd7afe4c0862978a8bfab5e7e165c349671bd96b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/incremental-classes/arm/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd1358f000df115b3320502a34af0c74e756ff41">
-        <dex dex="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run-bootstrap_1d6e868d6cf0c7683dc6fea4d0cff18f88cf9e17/classes.dex" />
+        <dex dex="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run_cde8f9cac565adba402684356aafecfcf9db0324/classes.dex" />
     </item>
 
 </items>
