@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sat Sep 23 18:10:08 EDT 2017
+2.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run_fd7afe4c0862978a8bfab5e7e165c349671bd96b
+5.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug/whatstheweatherlike.wav
+5.set=ASSET
+3.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/mergeJniLibs/arm/debug/folders/2000/1f/main
+6.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/res/menu/main.xml
+2.set=DEX
+10.set=ANDROID_RESOURCE
+10.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+4.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run-bootstrap_1d6e868d6cf0c7683dc6fea4d0cff18f88cf9e17
+7.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/mergeJniLibs/arm/debug/folders/2000/1f/main/lib/x86/libandroid_platform.so
+7.set=NATIVE_RESOURCE
+count=11
+0.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/AndroidManifest.xml
+5.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug
+8.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug/batman.wav
+4.set=DEX
+6.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+1.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/res/layout/activity_main.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/resources.arsc
+10.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/mergeJniLibs/arm/debug/folders/2000/1f/main
+2.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run_fd7afe4c0862978a8bfab5e7e165c349671bd96b/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+8.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug
+3.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/mergeJniLibs/arm/debug/folders/2000/1f/main/lib/armeabi/libandroid_platform.so
+3.set=NATIVE_RESOURCE
+1.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+9.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+4.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run-bootstrap_1d6e868d6cf0c7683dc6fea4d0cff18f88cf9e17/classes.dex
+8.set=ASSET
+0.set=ANDROID_RESOURCE

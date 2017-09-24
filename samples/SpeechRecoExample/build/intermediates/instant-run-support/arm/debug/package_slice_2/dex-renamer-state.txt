@@ -1,0 +1,4 @@
+#Sat Sep 23 18:10:08 EDT 2017
+base.0=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/5/slice_2/classes.dex

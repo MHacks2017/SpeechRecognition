@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sat Sep 23 18:10:04 EDT 2017
+2.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug
+5.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+6.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/resources.arsc
+2.set=ASSET
+4.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug
+count=7
+0.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/AndroidManifest.xml
+5.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+4.set=ASSET
+6.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+1.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/res/layout/activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug/whatstheweatherlike.wav
+6.set=ANDROID_RESOURCE
+0.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+3.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_/res/menu/main.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/resources-arm-debug.ap_
+4.file=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/assets/arm/debug/batman.wav
+0.set=ANDROID_RESOURCE

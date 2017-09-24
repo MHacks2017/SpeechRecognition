@@ -1,0 +1,7 @@
+#Sat Sep 23 18:10:08 EDT 2017
+base.0=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run-bootstrap_1d6e868d6cf0c7683dc6fea4d0cff18f88cf9e17
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run_fd7afe4c0862978a8bfab5e7e165c349671bd96b/classes.dex
+base.1=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run_fd7afe4c0862978a8bfab5e7e165c349671bd96b
+file.0=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10000/instant-run-bootstrap_1d6e868d6cf0c7683dc6fea4d0cff18f88cf9e17/classes.dex
