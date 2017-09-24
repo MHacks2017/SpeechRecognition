@@ -1,7 +1,7 @@
-#Sat Sep 23 18:10:07 EDT 2017
-base.0=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/classes_d6e33e0d237be9af0b075cae8e43e36d09b2a934
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/SpeechSDK_6c9a493fd2514bc5f43f01aa43c66e6299582938/classes.dex
-base.1=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/SpeechSDK_6c9a493fd2514bc5f43f01aa43c66e6299582938
-file.0=/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/classes_d6e33e0d237be9af0b075cae8e43e36d09b2a934/classes.dex
+#Sun Sep 24 01:04:58 EDT 2017
+base.0=/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/SpeechSDK_6c9a493fd2514bc5f43f01aa43c66e6299582938
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/classes_d6e33e0d237be9af0b075cae8e43e36d09b2a934/classes.dex
+base.1=/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/classes_d6e33e0d237be9af0b075cae8e43e36d09b2a934
+file.0=/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/transforms/dex/arm/debug/folders/1000/10/SpeechSDK_6c9a493fd2514bc5f43f01aa43c66e6299582938/classes.dex

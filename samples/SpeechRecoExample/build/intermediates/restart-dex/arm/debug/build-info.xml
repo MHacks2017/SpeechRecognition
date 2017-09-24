@@ -6,29 +6,22 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1506205573459"
+    timestamp="1506257043472"
     token="5581599107610132173"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="345" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="43" />
+        duration="0" />
     <task
         name="verifier"
-        duration="22" />
-
-    <artifact
-        location="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/outputs/apk/SpeechRecoExample-arm-debug.apk"
-        type="SPLIT_MAIN" />
+        duration="0" />
 
     <build
         build-mode="FULL"
@@ -73,14 +66,6 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1506204652404"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/outputs/apk/SpeechRecoExample-arm-debug.apk"
-            type="SPLIT_MAIN" />
-    </build>
-    <build
-        build-mode="COLD"
         timestamp="1506205573459"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
@@ -90,5 +75,50 @@
             location="/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/outputs/apk/SpeechRecoExample-arm-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1506229492921"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/dep/dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/split-apk/arm/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/outputs/apk/SpeechRecoExample-arm-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1506257043472"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

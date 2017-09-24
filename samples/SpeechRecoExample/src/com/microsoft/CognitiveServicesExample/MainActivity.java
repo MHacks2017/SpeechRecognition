@@ -342,7 +342,6 @@ public class MainActivity extends Activity implements ISpeechRecognitionServerEv
                 boolean get = my_response.toLowerCase().contains("get");
                 boolean electric = my_response.toLowerCase().contains("electric");
                 boolean charge = my_response.toLowerCase().contains("charge");
-                boolean
 
                 if(light)
                 {
@@ -362,6 +361,14 @@ public class MainActivity extends Activity implements ISpeechRecognitionServerEv
                         System.out.println("close the doors");
                     if(open)
                         System.out.println("open the doors");
+                }
+                if(charge)
+                {
+                    System.out.println("The current battery level is 69%");
+                }
+                if(get && electric)
+                {
+                    System.out.println("Navigating to nearet charging station");
                 }
                 this.WriteLine("[" + i + "]" + " Confidence=" + response.Results[i].Confidence +
                         " Text=\"" + response.Results[i].DisplayText + "\"");

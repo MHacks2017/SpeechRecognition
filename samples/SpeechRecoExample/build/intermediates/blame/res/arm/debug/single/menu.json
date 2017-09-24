@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/build/intermediates/res/merged/arm/debug/menu/main.xml",
+        "source": "/Users/matthew/Projects/MHacks2017/SpeechRecognition/samples/SpeechRecoExample/res/menu/main.xml"
+    },
+    {
         "merged": "/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/build/intermediates/res/merged/arm/debug/menu/main.xml",
         "source": "/Users/matthew/Projects/MHacks2017/Cognitive-Speech/samples/SpeechRecoExample/res/menu/main.xml"
     }
